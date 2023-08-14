@@ -7,4 +7,4 @@ Demo project for learning Next.js concepts like:
 - API Routes
 - Deployment
 
-This is made by following: https://nextjs.org/learn/basics/create-nextjs-app. 
+This is made with the help of: https://nextjs.org/learn/basics/create-nextjs-app. 
